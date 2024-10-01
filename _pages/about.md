@@ -53,7 +53,7 @@ Previously, I obtained my bachelor’s degree from School of autamation in Shand
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, Shuanghao Bai*, <strong><u>Wanqi Zhou</u></strong>, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/pdf/2409.14163">arXiv</a> | 
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
       <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
 </div>
