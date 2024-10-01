@@ -34,7 +34,7 @@ Previously, I obtained my bachelor’s degree from School of autamation in Shand
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💻 Currently, I am actively seeking a Postdoctoral position where I can further advance my research! If you have or know of any opportunities, I would like to hear from you!
+💻 I am currently seeking a Postdoctoral position to further advance my research. If you happen to be aware of any relevant opportunities, I would be very grateful if you could let me know.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -42,79 +42,112 @@ Previously, I obtained my bachelor’s degree from School of autamation in Shand
 # 🔥 News
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
-- \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
+- \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
 - \[2022/09\] One paper on [Transfer Entropy](https://www.sciencedirect.com/science/article/abs/pii/S0020025522010830) got accepted by INS 2022.
 
 
 # 📝 Publications 
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/arxiv-2024-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
+    <p style="margin: 0 0 10px 0;">Haoran Zhang*, Shuanghao Bai*, <strong><u>Wanqi Zhou</u></strong>, Jingwen Fu, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">arXiv 2024</p>
+    <p style="margin: 0;"><a href="https://arxiv.org/pdf/2409.14163">arXiv</a> | 
+      <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
+  </div>
+</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2024-mmcoa.jpg" alt="MMCoA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
-    <p style="margin: 0 0 10px 0;"><strong>Wanqi Zhou*</strong>, Shuanghao Bai*, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai*, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287"> [Paper]</a> <a href="https://github.com/ElleZWQ/MMCoA">[Code]</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/eccv-2024-spg.jpg" alt="SPG" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Soft Prompt Generation for Domain Generalization</h3>
-    <p style="margin: 0 0 10px 0;">Shuanghao Bai*, Yuedi Zhang*, <strong>Wanqi Zhou</strong>, Yicong He, Zhirong Luan, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Shuanghao Bai*, Yuedi Zhang*, <strong><u>Wanqi Zhou</u></strong>, Yicong He, Zhirong Luan, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ECCV 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19286v2">[Paper]</a> <a href="https://github.com/renytek13/Soft-Prompt-Generation">[Code]</a> <a href="https://zhuanlan.zhihu.com/p/719329220">[Chinese Intro]</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
+      <a href="https://github.com/renytek13/Soft-Prompt-Generation">Code</a> | 
+      <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/ssrn-2024-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
-    <p style="margin: 0 0 10px 0;"><strong>Wanqi Zhou</strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">SSRN 2024</p>
-    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">[Paper]</a></p>
+    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/icml-2024-jrngc.jpg" alt="JRNGC" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Jacobian Regularizer-based Neural Granger Causality</h3>
-    <p style="margin: 0 0 10px 0;"><strong>Wanqi Zhou</strong>, Shuanghao Bai, Shujian Yu, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Shujian Yu, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICML 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2405.08779">[Paper]</a> <a href="https://github.com/ElleZWQ/JRNGC">[Code]</a></p>
+    <p style="margin: 0;"><a href="https://proceedings.mlr.press/v235/zhou24a.html">Paper</a> | 
+      <a href="https://arxiv.org/abs/2405.08779">arXiv</a> |
+      <a href="https://github.com/ElleZWQ/JRNGC">Code</a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/aaai-2024-pda.jpg" alt="PDA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-based Distribution Alignment for Unsupervised Domain Adaptation</h3>
-    <p style="margin: 0 0 10px 0;">Shuanghao Bai, Min Zhang, <strong>Wanqi Zhou</strong>, Siteng Huang, Zhirong Luan, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Shuanghao Bai, Min Zhang, <strong><u>Wanqi Zhou</u></strong>, Siteng Huang, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">AAAI 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2312.09553v2">[Paper]</a> <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">[Code]</a></p>
+    <p style="margin: 0;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
+      <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
+      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a>
+      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/icassp-2024-mlp.jpg" alt="MLP" style="width: 200px; height: 80px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Improving Cross-domain Few-shot Classification with Multilayer Perceptron</h3>
-    <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong>Wanqi Zhou</strong>, Zhirong Luan, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong><u>Wanqi Zhou</u></strong>, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2312.09589">[Paper]</a> <a href="https://github.com/BaiShuanghao/CDFSC-MLP">[Code]</a></p>
+    <p style="margin: 0;"><a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
+      <a href="https://arxiv.org/abs/2312.09589">arXiv</a> |
+      <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a></p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 30px;">
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/ins-2022-te.jpg" alt="TE" style="width: 200px; height: 80px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Causality Detection with Matrix-based Transfer Entropy</h3>
-    <p style="margin: 0 0 10px 0;"><strong>Wanqi Zhou</strong>, Shujian Yu, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shujian Yu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">INS 2022</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2312.09589">[Paper]</a> <a href="https://github.com/zwq2/MTE_causal">[Code]</a></p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2312.09589">Paper</a> | <a href="https://github.com/zwq2/MTE_causal">Code</a></p>
   </div>
 </div>
 
