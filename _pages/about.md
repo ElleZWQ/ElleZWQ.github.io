@@ -167,11 +167,7 @@ _* denotes equal contribution._
 
 # 📖 Professional services
 ## Conference Reviewer
-* CVPR 2025
-* AAAI 2025
-* ACML 2024
-* ICDM 2024
-* ACM MM 2024
+* CVPR 2025 AAAI 2025 ACML 2024 ICDM 2024 ACM MM 2024
 
 ## Journal Reviewer
 * TNNLS
