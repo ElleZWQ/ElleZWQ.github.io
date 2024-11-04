@@ -165,6 +165,17 @@ _* denotes equal contribution._
 * Provincial First Prize in the National Undergraduate Mathematical Modeling Competition
 * National Scholarship,2016
 
+# 📖 Professional services
+## Conference Reviewer
+* CVPR 2025
+* AAAI 2025
+* ACML 2024
+* ICDM 2024
+* ACM MM 2024
+
+## Journal Reviewer
+* TNNLS
+
 <!-- 
 # 📖 Work experience
 * March 2021 - Now: Research Assistant
