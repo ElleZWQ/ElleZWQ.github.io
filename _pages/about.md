@@ -162,6 +162,8 @@ _* denotes equal contribution._
 * Outstanding Graduate Student Cadres, Xi’an Jiaotong University, 2020
 * Outstanding Undergraduate Graduates, Shandong University, 2019
 * National Scholarship, 2018
+* Provincial First Prize in the National Undergraduate Mathematical Modeling Competition
+* National Scholarship,2016
 
 <!-- 
 # 📖 Work experience
