@@ -65,7 +65,7 @@ Previously, I obtained my bachelor’s degree from School of autamation in Shand
   <img src="images/paper/arxiv-2024-mmcoa.jpg" alt="MMCoA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai*, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai*, Danilo P. Mandic, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
     <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
   </div>
