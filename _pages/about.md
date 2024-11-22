@@ -28,7 +28,7 @@ redirect_from:
 I am a 4th-year Ph.D. student of artificial intelligence at [Xi'an Jiaotong University](http://www.aiar.xjtu.edu.cn/), advised by Prof. [Badong Chen](https://gr.xjtu.edu.cn/web/chenbd), and I am part of the National Key Laboratory of Human-Machine Hybrid Augmented Intelligenceled by [Nanning Zheng](https://scholar.google.com.hk/citations?user=iqMe3p8AAAAJ&hl=zh-CN) (IEEE Fellow, Membership of Chinese Academy of Engineering). 
 During the period from 2023.11.01 to 2024.10.31, I worked in Advanced Intelligence Project ([AIP](https://www.riken.jp/en/research/labs/aip/)) of RIKEN center for joint IPA project, advised by Prof. [Qibin Zhao](https://www.riken.jp/en/research/labs/aip/generic_tech/tensor_learn/index.html). Prior to this, I completed a three-month internship.
 During the period of my Ph.D phase, I am also very glad to have the opportunity to work with [Danilo P. Mandic](https://scholar.google.co.uk/citations?user=hcxWZkcAAAAJ&hl=en).
-Previously, I obtained my bachelor’s degree from School of autamation in Shandong University in 2019. 
+Previously, I obtained my bachelor’s degree from Shandong University in 2019. 
 <!-- I am currently serving as a visiting student at the [MiLab](https://milab.westlake.edu.cn/index.html) at Westlake University, advised by Prof. [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN).  -->
 
 🔭 My research interests lie in causal discovery, generalization in computer vision, adversarial learning, and theology.
