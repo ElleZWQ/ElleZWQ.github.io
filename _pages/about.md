@@ -31,11 +31,11 @@ I was also very glad to have the opportunity to work with [Danilo P. Mandic](htt
 Previously, I obtained my bachelor’s degree from Shandong University in 2019. 
 <!-- I am currently serving as a visiting student at the [MiLab](https://milab.westlake.edu.cn/index.html) at Westlake University, advised by Prof. [Donglin Wang](https://scholar.google.com/citations?user=-fo6wdwAAAAJ&hl=zh-CN).  -->
 
-🔭 My research interests lie in causal discovery, generalization in computer vision, adversarial learning, and theology.
+🔭 My research interests lie in reliable machine learning, such as causal discovery, generalization in computer vision, adversarial learning.
 
 ✉️ Welcome to contact me for any discussion and cooperation!
 
-💻 I am currently seeking a Postdoctoral position to further advance my research. If you happen to be aware of any relevant opportunities, I would be very grateful if you could let me know.
+💻 I am currently seeking a Job position to further advance my research. If you happen to be aware of any relevant opportunities, I would be very grateful if you could let me know.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=xhd94DIAAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -44,6 +44,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
 - \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
+- - \[2025/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2024.
 
 
 
@@ -53,7 +54,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, Shuanghao Bai*, <strong><u>Wanqi Zhou</u></strong>, Jingwen Fu, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">arXiv 2024</p>
+    <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
     <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
       <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
