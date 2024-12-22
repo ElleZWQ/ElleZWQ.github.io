@@ -41,10 +41,11 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 
 
 # 🔥 News
+- \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
 - \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
-- \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
+
 
 
 
