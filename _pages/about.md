@@ -41,6 +41,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 
 
 # 🔥 News
+- \[2025/03\]: One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242) on causal discovery got accepted by Neural Networks 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
@@ -50,6 +51,30 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 
 
 # 📝 Publications 
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/ssrn-2024-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
+    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a></p>
+  </div>
+</div>
+
+<hr />
+
+<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
+  <img src="images/paper/arxiv-2025-bcib.gif" alt="BCIB" style="width: 200px; height: 120px; margin-right: 20px;">
+  <div style="line-height: 1.2;">
+    <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
+    <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong><u>Wanqi Zhou</u></strong>, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;">arXiv 2025</p>
+    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.02853">arXiv</a>| <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
+  </div>
+</div>
+
+<hr />
+
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/arxiv-2024-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
@@ -90,26 +115,16 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/ssrn-2024-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
-  <div style="line-height: 1.2;">
-    <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">SSRN 2024</p>
-    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a></p>
-  </div>
-</div>
-
-<hr />
-
-<div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
   <img src="images/paper/icml-2024-jrngc.jpg" alt="JRNGC" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Jacobian Regularizer-based Neural Granger Causality</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Shujian Yu, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICML 2024</p>
-    <p style="margin: 0;"><a href="https://proceedings.mlr.press/v235/zhou24a.html">Paper</a> | 
+    <p style="margin: 0;">
+      <a href="https://proceedings.mlr.press/v235/zhou24a.html">Paper</a> | 
       <a href="https://arxiv.org/abs/2405.08779">arXiv</a> |
-      <a href="https://github.com/ElleZWQ/JRNGC">Code</a></p>
+      <a href="https://github.com/ElleZWQ/JRNGC">Code</a>
+      </p>
   </div>
 </div>
 
@@ -121,10 +136,12 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Prompt-based Distribution Alignment for Unsupervised Domain Adaptation</h3>
     <p style="margin: 0 0 10px 0;">Shuanghao Bai, Min Zhang, <strong><u>Wanqi Zhou</u></strong>, Siteng Huang, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">AAAI 2024</p>
-    <p style="margin: 0;"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
+    <p style="margin: 0;">
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
       <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a>
-      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a></p>
+      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a>
+      </p>
   </div>
 </div>
 
@@ -136,9 +153,11 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Improving Cross-domain Few-shot Classification with Multilayer Perceptron</h3>
     <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong><u>Wanqi Zhou</u></strong>, Zhirong Luan, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2024</p>
-    <p style="margin: 0;"><a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10447065/">Paper</a> |
       <a href="https://arxiv.org/abs/2312.09589">arXiv</a> |
-      <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a></p>
+      <a href="https://github.com/BaiShuanghao/CDFSC-MLP">Code</a>
+      </p>
   </div>
 </div>
 
@@ -150,7 +169,10 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Causality Detection with Matrix-based Transfer Entropy</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shujian Yu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">INS 2022</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2312.09589">Paper</a> | <a href="https://github.com/zwq2/MTE_causal">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2312.09589">Paper</a> | 
+      <a href="https://github.com/zwq2/MTE_causal">Code</a>
+      </p>
   </div>
 </div>
 
@@ -170,7 +192,7 @@ _* denotes equal contribution._
 
 # 📖 Professional services
 ## Conference Reviewer
-* CVPR 2025 AAAI 2025 ACML 2024 ICDM 2024 ACM MM 2024
+* CVPR 2025, AAAI 2025, ACML 2024, ICDM 2024, ACM MM 2024
 
 ## Journal Reviewer
 * TNNLS
