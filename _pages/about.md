@@ -43,9 +43,9 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 # 🔥 News
 - \[2025/03\]: One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242) on causal discovery got accepted by Neural Networks 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
-- \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286v2)) on VLM-based domain generalization got accepted by ECCV 2024.
+- \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
-- \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553v2)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
+- \[2023/12\]: One paper ([PDA](https://arxiv.org/abs/2312.09553)) on VLM-based unsupervised domain adaptation got accepted by AAAI 2024, and one [Paper](https://arxiv.org/abs/2312.09589) on cross-domain few-shot classification got accepted by ICASSP 2024.
 
 
 
@@ -57,7 +57,10 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
     <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
-    <p style="margin: 0;"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a></p>
+    <p style="margin: 0;">
+      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a> |
+      <a href="https://github.com/ElleZWQ/MHCD">Code</a>
+      </p>
   </div>
 </div>
 
@@ -69,7 +72,11 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
     <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong><u>Wanqi Zhou</u></strong>, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2025</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2502.02853">arXiv</a>| <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | <a href="https://github.com/BaiShuanghao/BC-IB">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2502.02853">arXiv</a> | 
+      <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
+      <a href="https://github.com/BaiShuanghao/BC-IB">Code</a>
+      </p>
   </div>
 </div>
 
@@ -81,7 +88,9 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, Shuanghao Bai*, <strong><u>Wanqi Zhou</u></strong>, Jingwen Fu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ICASSP 2025</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
+    <p style="margin: 0;">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10888057">Paper</a> |
+      <a href="https://arxiv.org/abs/2409.14163">arXiv</a> | 
       <a href="https://github.com/zhanghr2001/PromptTA">Code</a></p>
   </div>
 </div>
@@ -92,9 +101,12 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
   <img src="images/paper/arxiv-2024-mmcoa.jpg" alt="MMCoA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai*, Danilo P. Mandic, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou*</u></strong>, Shuanghao Bai*, Danilo P. Mandic, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">arXiv 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19287">arXiv</a> | <a href="https://github.com/ElleZWQ/MMCoA">Code</a></p>
+    <p style="margin: 0;">
+      <a href="https://arxiv.org/abs/2404.19287">arXiv</a> | 
+      <a href="https://github.com/ElleZWQ/MMCoA">Code</a>
+      </p>
   </div>
 </div>
 
@@ -106,7 +118,9 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Soft Prompt Generation for Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Shuanghao Bai*, Yuedi Zhang*, <strong><u>Wanqi Zhou</u></strong>, Yicong He, Zhirong Luan, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">ECCV 2024</p>
-    <p style="margin: 0;"><a href="https://arxiv.org/abs/2404.19286v2">arXiv</a> | 
+    <p style="margin: 0;">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-031-72646-0_25">Paper</a> | 
+      <a href="https://arxiv.org/abs/2404.19286">arXiv</a> | 
       <a href="https://github.com/renytek13/Soft-Prompt-Generation">Code</a> | 
       <a href="https://zhuanlan.zhihu.com/p/719329220">Chinese Intro</a></p>
   </div>
@@ -138,9 +152,8 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <p style="margin: 0 0 10px 0;">AAAI 2024</p>
     <p style="margin: 0;">
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/27830">Paper</a> |
-      <a href="https://arxiv.org/abs/2312.09553v2">arXiv</a> | 
+      <a href="https://arxiv.org/abs/2312.09553">arXiv</a> | 
       <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment">Code</a>
-      <a href="https://github.com/BaiShuanghao/Prompt-based-Distribution-Alignment"><img src="https://img.shields.io/github/stars/BaiShuanghao/Prompt-based-Distribution-Alignment?style=social" alt="GitHub Stars"></a>
       </p>
   </div>
 </div>
@@ -170,7 +183,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shujian Yu, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">INS 2022</p>
     <p style="margin: 0;">
-      <a href="https://arxiv.org/abs/2312.09589">Paper</a> | 
+      <a href="https://www.sciencedirect.com/science/article/pii/S0020025522010830">Paper</a> | 
       <a href="https://github.com/zwq2/MTE_causal">Code</a>
       </p>
   </div>
