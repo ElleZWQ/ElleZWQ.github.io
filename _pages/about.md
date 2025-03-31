@@ -58,7 +58,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
     <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
     <p style="margin: 0;">
-      <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242">SSRN</a> |
+      <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">SSRN</a> |
       <a href="https://github.com/ElleZWQ/MHCD">Code</a>
       </p>
   </div>
