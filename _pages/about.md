@@ -55,7 +55,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
   <img src="images/paper/nn-2025-mee.jpg" alt="MEE" style="width: 200px; height: 100px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">An Information-Theoretic Approach for Heterogeneous Differentiable Causal Discovery</h3>
-    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Qibin Zhao, Badong Chen</p>
+    <p style="margin: 0 0 10px 0;"><strong><u>Wanqi Zhou</u></strong>, Shuanghao Bai, Yuqing Xie, Yicong He, Qibin Zhao, Badong Chen</p>
     <p style="margin: 0 0 10px 0;">Neural Networks 2025</p>
     <p style="margin: 0;">
       <a href="https://www.sciencedirect.com/science/article/pii/S0893608025002965">Paper</a> |
