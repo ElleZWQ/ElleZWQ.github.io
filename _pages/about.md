@@ -41,7 +41,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 
 
 # 🔥 News
-- \[2025/03\]: One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4837242) on causal discovery got accepted by Neural Networks 2025.
+- \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286)) on VLM-based domain generalization got accepted by ECCV 2024.
 - \[2024/05\]: One paper ([JRNGC](https://arxiv.org/abs/2405.08779)) on causal discovery got accepted by ICML 2024.
@@ -83,7 +83,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 <hr />
 
 <div style="display: flex; align-items: center; margin-top: 30px; margin-bottom: 30px;">
-  <img src="images/paper/arxiv-2024-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
+  <img src="images/paper/icassp-2025-promptta.jpg" alt="PromptTA" style="width: 200px; height: 120px; margin-right: 20px;">
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">PromptTA: Prompt-driven Text Adapter for Source-free Domain Generalization</h3>
     <p style="margin: 0 0 10px 0;">Haoran Zhang*, Shuanghao Bai*, <strong><u>Wanqi Zhou</u></strong>, Jingwen Fu, Badong Chen</p>
