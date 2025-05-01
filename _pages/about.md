@@ -41,6 +41,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
 
 
 # 🔥 News
+- \[2025/05\]: One [paper](https://arxiv.org/abs/2502.02853) on Information theory and Visual Imitation Learning got accepted by ICML 2025.
 - \[2025/03\]: One [paper](https://www.sciencedirect.com/science/article/pii/S0893608025002965) on causal discovery got accepted by Neural Networks 2025.
 - \[2024/12\]: One paper ([PromptTA](https://arxiv.org/abs/2409.14163)) on source-free domain generalization got accepted by ICASSP 2025.
 - \[2024/07\]: One paper ([SPG](https://arxiv.org/abs/2404.19286)) on VLM-based domain generalization got accepted by ECCV 2024.
