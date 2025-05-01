@@ -72,7 +72,7 @@ Previously, I obtained my bachelor’s degree from Shandong University in 2019.
   <div style="line-height: 1.2;">
     <h3 style="margin: 0 0 10px 0; font-weight: bold;">Rethinking Latent Representations in Behavior Cloning: An Information Bottleneck Approach for Robot Manipulation</h3>
     <p style="margin: 0 0 10px 0;">Shuanghao Bai, <strong><u>Wanqi Zhou</u></strong>, Pengxiang Ding, Wei Zhao, Donglin Wang, Badong Chen</p>
-    <p style="margin: 0 0 10px 0;">arXiv 2025</p>
+    <p style="margin: 0 0 10px 0;">ICML 2025</p>
     <p style="margin: 0;">
       <a href="https://arxiv.org/abs/2502.02853">arXiv</a> | 
       <a href="https://baishuanghao.github.io/BC-IB.github.io/">Project</a> | 
